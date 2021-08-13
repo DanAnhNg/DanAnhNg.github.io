@@ -1,17 +1,19 @@
 ---
 title: "Technology Leadership Week 7 Activities Blog Post"
 author: "Dan Anh"
-tag: ["education", "engineering", "leadership"]
+tag: ["education", "engineering", "leadership", "situational", "approach,"]
 ---
 # **Leadership Approaches**
 
 ## **Situational Approaches**
 
-There are different situational leadership approaches:
+There are variety of different styles for situational leadership approaches:
 - Directing
 - Coaching
 - Delegating
 - Supporting
+
+## **Approach Styles**
 
 ### **Directing style**
 
